@@ -1,0 +1,101 @@
+Webspr 0.1
+----------
+
+You will need to install the "paste" module for Python before using this
+software.
+
+There are two components: the server, server.py, and the webpage, spr.html.
+The server uses the "toy" HTTP server provided by paste; you probably don't
+want to use it directly, but should rather hide it behind a proxy. The server
+is limited to serving the files "spr.html" and "data.js" (or any other file
+matching "*data.js") and is thus rather inflexible in its current form. This
+is another reason to run it behind a proxy.
+
+In theory, using the software is a simple as running the server and pointing
+your subjects to http://your.server/spr.html.
+
+Input data should be in a file called data.js in the same directory as spr.html.
+The server saves results in a file called "results", and saves the raw post
+data it receives in a file called "raw_results". The following is an
+example data.js:
+
+---------- BEGIN EXAMPLE data.js ----------
+
+var sentences_strings = [
+
+[0, "This is a practice sentence"],
+[0, "This is a practice sentence with a comprehension question",
+    ["What kind of sentence was that?", "A practice", "A real sentence"]],
+
+[1, "This is a real sentence of type 1"],
+[2, "This is a real sentence of type 2"],
+[1, "This is another real sentence of type 1 with a comprehension question",
+    ["What was the type of that sentence?", "1", "2", "3"]],
+
+[-1, "This is a filler sentence"],
+[-1, "And another boring filler, this time with a comprehension question",
+     ["Did you understand that?", "Yes", "No"]]
+
+];
+
+---------- END EXAMPLE data.js ----------
+
+Each sentence has a type. Types are stored in the results file and make it easy
+to group sentences for analysis. Positive integers are used for "real"
+sentences, 0 for practice sentences and negative integers for filler sentences.
+Sentences may optionally have an associated comprehension question. The example
+above indicates the syntax used. Answers should be given with the correct
+answer first. When the experiment is run, answers are presented in a random
+order, with the exception of yes/no questions, where yes is always
+first.
+
+The software uses the following procedure to determine the order of sentences
+for each subject. First, the "real" sentences are randomly ordered. Then, the
+filler sentences are given a separate random ordering and "shuffled" into the
+real sentences so that they are evenly spaced. (If you have at least as many
+fillers as real sentences, there will never be two real sentences in a row.)
+Finally, practice sentences are prepended to the list of sentences in the order
+in which they were originally given.
+
+Owing to differences in browsers, screen sizes, etc., it is impossible to
+predict whether or not a given sentence will fit onto a single line. For
+this reason, the software detects when a line boundry is crossed and flags
+this in the results, allowing timings influences by line breaks to be excluded
+in analysis.
+
+Results are saved in CSV format. The columns do not have headings in the results
+file. **Each row corresponds to a single instance of a spacebar pressing.**
+In order, the columns are as follows:
+
+1. Date
+    The date/time at which the server received the results of which this line
+    is a part. This is an integer representing seconds since XXXX.
+2. Sentence
+    The number of the sentence (as determined by the order of sentences in
+    data.js). Note that sentence hashes can also be used to identify sentences.
+3. Word
+    The word number, starting from 1. (I.e. the result for word 1 is the time
+    it took to read the first word, or in other words, the time it took for the
+    subject to make the second word appear.)
+4. Type
+    The type of the sentence, as given in data.js.
+5. Time
+    Integer giving the reading time in ms.
+6. Newline
+    Indicates whether or not the user went onto a new line to read this word
+    (i.e., whether the word is the last word on a line). 1 for yes, 0 for
+    no.
+7. Answer
+    Indicates whether or not the comprehension question was answered correctly.
+    1 for yes, 0 for no.
+8. Length,
+    The length of the word in characters.
+9. IP Hash
+    MD5 hash of the subject's IP address as a hexadecimal string.
+10. Sentence hash.
+    MD5 hash of the sentence (with one space between each word -- multiple
+    spaces, newlines, etc. are trimmed before hashing).
+
+Feel free to contact me with any suggestions or questions
+<a.d.drummond@gmail.com>.
+
