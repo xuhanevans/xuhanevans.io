@@ -10,7 +10,7 @@ title:            Xu Han
 tagline:          'A Jekyll theme'
 description:      'Research Assistant at Johns Hopkins University'
 url:              http://xuhanevans.io
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Xu Han'
