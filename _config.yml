@@ -5,47 +5,20 @@ highlighter:      pygments
 # Permalinks
 permalink:        pretty
 
-# Base blog settings
-baseurl                      : ""
-#url                          : http://127.0.0.1:4000 # the base hostname & protocol for your site
-url                          : http://xuhanevans.github.io # the base hostname & protocol for your site
+# Setup
+title:            Xu Han
+tagline:          'A Jekyll theme'
+description:      'Research Assistant at Johns Hopkins University'
+url:              http://xuhanevans.github.io
+baseurl:          /
 
-blog:
-  title                      : Xu Han
-  description                : Research Assistant at Johns Hopkins University
-
-# Layout configuration
-  hero_layout                : false # turn on hero layout for blog and posts
-  excerpts                   : true # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
-  titles_only                : false # show post titles only on main blog page
-
-# Author info
 author:
-  fullname                  : Xu Han
-  rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : xhan32@jhu.edu # change to your e-mail address
+  name:           'Xu Han'
+  mail:           'xhan32@jhu.edu'
+  url:            'http://xuhanevans.github.io'
 
 
-# Pagination
-paginate                     : 5
-paginate_path                : '/page-:num/'
-
-# Tags
-collections:
-  my_tags:
-    output: true
-    permalink: /tag/:slug/
-defaults:
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: blog-by-tag
-
-# Handling Reading
-exclude                    : ["README.md", "README.html"]
+paginate:         5
 
 # Custom vars
 version:          2.1.0
@@ -57,4 +30,3 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - redcarpet
-  - jekyll-sitemap
