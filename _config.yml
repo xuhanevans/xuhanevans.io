@@ -9,13 +9,13 @@ permalink:        pretty
 title:            Xu Han
 tagline:          'A Jekyll theme'
 description:      'Research Assistant at Johns Hopkins University'
-url:              http://xuhanevans.io
+url:              http://xuhanevans.github.io
 baseurl:          ""
 
 author:
   name:           'Xu Han'
   mail:           'xhan32@jhu.edu'
-  url:            'http://xuhanevans.io'
+  url:            'http://xuhanevans.github.io'
 
 
 paginate:         5
