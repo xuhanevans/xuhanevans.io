@@ -56,5 +56,11 @@ Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.<br />
 . International Conference on Computer Vision (ICCV), 2019.<br />
 <sub>[[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Liu_Unimodal-Uniform_Constrained_Wasserstein_Training_for_Medical_Diagnosis_ICCVW_2019_paper.pdf) [[bibtex]](/bibtex/2.txt)</sub>
 
+
+####   System Description
+[1]  Mozhi Zhang, Jordan Boyd-Graber, Michelle Yuan, C. Anton Rytting, Weiwei Yang, Philip Resnik, Ting Hua, Adam Poliak, Adam Teichert, Tongfei Chen, **Xu Han**, Linghao Jin, João Sedoc, Benjamin Van Durme (2019): [LoReHLT19 System Description UMD-JHU](/archive/LORELEI_2019-2.pdf). 
+
+<hr>
+
 #### Contact me
 [{{ site.author.mail }}](mailto:{{site.author.mail}})
