@@ -1,0 +1,8 @@
+@misc{liu2020mutual,
+      title={Mutual Information Regularized Identity-aware Facial ExpressionRecognition in Compressed Video}, 
+      author={Xiaofeng Liu and Linghao Jin and Xu Han and Jane You},
+      year={2020},
+      eprint={2010.10637},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
