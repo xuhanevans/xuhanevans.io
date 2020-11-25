@@ -9,7 +9,7 @@ title: Home
  -->
 # About
 
-Currently, I'm a Research Assistant in the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/) at the [Johns Hopkins University](https://www.jhu.edu/), advised by [Benjamin Van Durme](http://www.cs.jhu.edu/~vandurme/). Before that, I worked in [Beth Irsarel Deaconess Medical Center](https://www.bidmc.org/) at [Harvard Medical School](https://hms.harvard.edu/). 
+Currently, I'm a Research Assistant in the [Center for Language and Speech Processing](http://www.clsp.jhu.edu/) at the [Johns Hopkins University](https://www.jhu.edu/), advised by [Benjamin Van Durme](http://www.cs.jhu.edu/~vandurme/). At the same time, I'm working in [Beth Irsarel Deaconess Medical Center](https://www.bidmc.org/) at [Harvard Medical School](https://hms.harvard.edu/). 
 My recent research focuses on computer vision, pattern recognition, medical data analysis and natural language processing. I am also interested in linguistic semantics.
 
 <br>
