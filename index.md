@@ -34,7 +34,7 @@ Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Reco
 <sub> [[pdf]](https://arxiv.org/pdf/2010.10637.pdf) [[bibtex]](/bibtex/4.txt) </sub>
 
 [5] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jun Lu, Jane You, Linsheng Kong. [Identity-aware Facial Expression
-Recognition in Compressed Video](https://arxiv.org/pdf/2101.00317.pdf), International Conference on Pattern Recognition (**ICPR**) , 2020.
+Recognition in Compressed Video](https://arxiv.org/abs/2101.00317), International Conference on Pattern Recognition (**ICPR**) , 2020.
 <sub> [[pdf]](https://arxiv.org/pdf/2101.00317.pdf) </sub>
 
 [6] Adam Poliak, Max Fleming, Cash Costello, Kenton W Murray, Mahsa Yarmohammadi, Shivani Pandya, Darius Irani, Milind Agarwal, Udit Sharma, Shuo Sun, Nicola Ivanov, Lingxi Shang, Kaushik Srinivasan, Seolhwa Lee, **Xu Han**, Smisha Agarwal, João Sedoc. [Collecting Verified COVID-19 Question Answer Pairs](https://openreview.net/forum?id=0X9O6VcYe_),In NLP-COVID Empirical Methods in Natural Language Processing (**EMNLP**)}, 2020.
@@ -48,7 +48,7 @@ Recognition in Compressed Video](https://arxiv.org/pdf/2101.00317.pdf), Internat
 [8] Xiaofeng Liu, Yuzhuo Han, Song Bai, Yi Ge, Tianxing Wang, **Xu Han**, Site Li, Jane You, Jun Lu.
 [Importance-Aware Semantic Segmentation in Self-Driving with Discrete Wasserstein Training](https://ojs.aaai.org//index.php/AAAI/article/view/6831). 
 Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.<br />
-<sub>[[pdf]](/archive/Importance-aware.pdf) [[bibtex]](/bibtex/1.txt)</sub>
+<sub>[[pdf]](https://ojs.aaai.org//index.php/AAAI/article/view/6831) [[bibtex]](/bibtex/1.txt)</sub>
 
 <hr>
 
