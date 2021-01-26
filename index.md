@@ -26,7 +26,7 @@ My recent research focuses on computer vision, pattern recognition, medical data
 
 ### 2020
 
-[3] **Xu Han**, João Sedoc, Benjamin Van Durme. Text Window Scalar Protocols and BWS-based Sorting for Sentiment Annotation, Transactions of the Association for Computational Linguistics (**TACL**), 2020. Submitted.
+[3] **Xu Han**, João Sedoc, Benjamin Van Durme. [Text Window Scalar Protocols and BWS-based Sorting for Sentiment Annotation](), Transactions of the Association for Computational Linguistics (**TACL**), 2020. Submitted.
 
 
 [4] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jane You. [Mutual Information Regularized Identity-aware Facial Expression
