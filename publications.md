@@ -7,17 +7,17 @@ title: Publications
 [1] **Xu Han**, Xiaofeng Liu. [Domain Generalization under Conditional and Label Shifts via Variational Bayesian Inference
 ](), The 30th International Joint Conference on Artificial Intelligence (**IJCAI-21**), 2021, Submitted.
 
-[2] Xiaofeng Liu, **Xu Han**, Hu Bo, Linghao Jin, Fangxu Xing, Jinsong Ouyang, Jun Lu, Georges EI Fakhri, Jonghye Woo. [Rethinking the Invariant Feature Learning: Variational Bayesian Inference for Domain Generalization](/archive/Rethinking.pdf), Thirty-Fifth **AAAI** (Conference on Artificial Intelligence}, 2021. Under Review. 
+[2] Xiaofeng Liu, **Xu Han**, Hu Bo, Linghao Jin, Fangxu Xing, Jinsong Ouyang, Jun Lu, Georges EI Fakhri, Jonghye Woo. [Rethinking the Invariant Feature Learning: Variational Bayesian Inference for Domain Generalization](/archive/Rethinking.pdf), Thirty-Fifth **AAAI** (Conference on Artificial Intelligence}, 2021. Submitted. 
 <sub> [[pdf]](/archive/Rethinking.pdf) </sub>
 
 
 ### 2020
 
-[3] **Xu Han**, João Sedoc, Benjamin Van Durme. Text Window Scalar Protocols and BWS-based Sorting in Sentiment Annotations, Transactions of the Association for Computational Linguistics (**TACL**), 2020. Submitted.
+[3] **Xu Han**, João Sedoc, Benjamin Van Durme. [Text Window Scalar Protocols and BWS-based Sorting in Sentiment Annotations](), Transactions of the Association for Computational Linguistics (**TACL**), 2020. Submitted.
 
 
 [4] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jane You. [Mutual Information Regularized Identity-aware Facial Expression
-Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Recognition, 2020. Under Review
+Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Recognition, 2020.
 <sub> [[pdf]](https://arxiv.org/pdf/2010.10637.pdf) [[bibtex]](/bibtex/4.txt) </sub>
 
 [5] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jun Lu, Jane You, Linsheng Kong. [Identity-aware Facial Expression
