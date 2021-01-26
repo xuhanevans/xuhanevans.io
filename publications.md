@@ -21,7 +21,7 @@ Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Reco
 <sub> [[pdf]](https://arxiv.org/pdf/2010.10637.pdf) [[bibtex]](/bibtex/4.txt) </sub>
 
 [5] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jun Lu, Jane You, Linsheng Kong. [Identity-aware Facial Expression
-Recognition in Compressed Video](https://arxiv.org/abs/2101.00317), International Conference on Pattern Recognition (**ICPR**) , 2020.
+Recognition in Compressed Video](https://arxiv.org/abs/2101.00317), International Conference on Pattern Recognition (**ICPR**) , 2020 (oral, 7%).
 <sub> [[pdf]](https://arxiv.org/pdf/2101.00317.pdf) </sub>
 
 [6] Adam Poliak, Max Fleming, Cash Costello, Kenton W Murray, Mahsa Yarmohammadi, Shivani Pandya, Darius Irani, Milind Agarwal, Udit Sharma, Shuo Sun, Nicola Ivanov, Lingxi Shang, Kaushik Srinivasan, Seolhwa Lee, **Xu Han**, Smisha Agarwal, João Sedoc. [Collecting Verified COVID-19 Question Answer Pairs](https://openreview.net/forum?id=0X9O6VcYe_),In NLP-COVID Empirical Methods in Natural Language Processing (**EMNLP**)}, 2020.
@@ -42,5 +42,5 @@ Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.<br />
 ### 2019
 
 [9] Xiaofeng Liu, **Xu Han**, Yukai Qiao, Yi Ge, Site Li, Jun Lu. [Unimodal-uniform Constrained Wasserstein Training for Medical Diagnosis](http://openaccess.thecvf.com/content_ICCVW_2019/html/VRMI/Liu_Unimodal-Uniform_Constrained_Wasserstein_Training_for_Medical_Diagnosis_ICCVW_2019_paper.html)
-. International Conference on Computer Vision (ICCV), 2019.<br />
+. International Conference on Computer Vision (ICCV), 2019 (oral workshop,15%).<br />
 <sub>[[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/VRMI/Liu_Unimodal-Uniform_Constrained_Wasserstein_Training_for_Medical_Diagnosis_ICCVW_2019_paper.pdf) [[bibtex]](/bibtex/2.txt)</sub>
