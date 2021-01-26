@@ -21,15 +21,15 @@ Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Reco
 <sub> [[pdf]](https://arxiv.org/pdf/2010.10637.pdf) [[bibtex]](/bibtex/4.txt) </sub>
 
 [5] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jun Lu, Jane You, Linsheng Kong. [Identity-aware Facial Expression
-Recognition in Compressed Video](/archive/ICPR_FER__Copy__camera_ready.pdf), International Conference on Pattern Recognition (**ICPR**) , 2020.
+Recognition in Compressed Video](https://arxiv.org/pdf/2101.00317.pdf), International Conference on Pattern Recognition (**ICPR**) , 2020.
 <sub> [[pdf]](https://arxiv.org/pdf/2101.00317.pdf) </sub>
 
 [6] Adam Poliak, Max Fleming, Cash Costello, Kenton W Murray, Mahsa Yarmohammadi, Shivani Pandya, Darius Irani, Milind Agarwal, Udit Sharma, Shuo Sun, Nicola Ivanov, Lingxi Shang, Kaushik Srinivasan, Seolhwa Lee, **Xu Han**, Smisha Agarwal, João Sedoc. [Collecting Verified COVID-19 Question Answer Pairs](https://openreview.net/forum?id=0X9O6VcYe_),In NLP-COVID Empirical Methods in Natural Language Processing (**EMNLP**)}, 2020.
 <sub> [[pdf]](https://openreview.net/pdf?id=0X9O6VcYe_) </sub>
 
 
-[7] Yuzhuo Han, Xiaofeng Liu, Zhenfei Sheng, Yutao Ren, **Xu Han**. [Wasserstein Loss based Deep Object Detection](https://ieeexplore.ieee.org/document/9150606). Accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br />
-<sub>[[pdf]](/archive/wasserstein_loss_based_deep_object_detection.pdf) [[bibtex]](/bibtex/3.txt)</sub>
+[7] Yuzhuo Han, Xiaofeng Liu, Zhenfei Sheng, Yutao Ren, **Xu Han**. [Wasserstein Loss based Deep Object Detection](https://openaccess.thecvf.com/content_CVPRW_2020/html/w60/Han_Wasserstein_Loss-Based_Deep_Object_Detection_CVPRW_2020_paper.html). Accepted to IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br />
+<sub>[[pdf]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w60/Han_Wasserstein_Loss-Based_Deep_Object_Detection_CVPRW_2020_paper.html) [[bibtex]](/bibtex/3.txt)</sub>
 
 
 [8] Xiaofeng Liu, Yuzhuo Han, Song Bai, Yi Ge, Tianxing Wang, **Xu Han**, Site Li, Jane You, Jun Lu.
