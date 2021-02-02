@@ -23,11 +23,11 @@ My recent research focuses on computer vision, pattern recognition, medical data
 [2] Xiaofeng Liu, **Xu Han**, Hu Bo, Linghao Jin, Fangxu Xing, Jinsong Ouyang, Jun Lu, Georges EI Fakhri, Jonghye Woo. [Rethinking the Invariant Feature Learning: Variational Bayesian Inference for Domain Generalization](/archive/Rethinking.pdf), Thirty-Fifth **AAAI** (Conference on Artificial Intelligence}, 2021. Submitted. 
 <sub> [[pdf]](/archive/Rethinking.pdf) </sub>
 
+[3] **Xu Han**, João Sedoc, Benjamin Van Durme. [Text Window Scalar Protocols and BWS-based Sorting for Sentiment Annotation](/arxiv/optimizing-scalar.pdf), Transactions of the Association for Computational Linguistics (**TACL**), 2021. Submitted.
+<sub> [[pdf]](/archive/optimizing-scalar.pdf) </sub>
+
 
 ### 2020
-
-[3] **Xu Han**, João Sedoc, Benjamin Van Durme. [Text Window Scalar Protocols and BWS-based Sorting for Sentiment Annotation](), Transactions of the Association for Computational Linguistics (**TACL**), 2020. Submitted.
-
 
 [4] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jane You. [Mutual Information Regularized Identity-aware Facial Expression
 Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Recognition, 2020.
@@ -64,5 +64,15 @@ Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.<br />
 
 <hr>
 
+#### Talks and Activities
+
+[1] Reviewer of IEEE Journal of Biomedical and Health Informatics, 2021.
+
+[2] Poster Spotlight Presentation in AAAI, New York, Feb 2020.
+
+[3] Oral Report Confidence Regularized Self-Trainings. in ICCV, Seoul, Nov 2019. 
+
+
+<hr>
 #### Contact me
 [{{ site.author.mail }}](mailto:{{site.author.mail}})
