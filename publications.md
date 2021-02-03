@@ -20,7 +20,7 @@ Recognition in Compressed Video](https://arxiv.org/abs/2010.10637), Pattern Reco
 <sub> [[pdf]](https://arxiv.org/pdf/2010.10637.pdf) [[bibtex]](/bibtex/4.txt) </sub>
 
 [5] Xiaofeng Liu, Linghao Jin, **Xu Han**, Jun Lu, Jane You, Linsheng Kong. [Identity-aware Facial Expression
-Recognition in Compressed Video](https://arxiv.org/abs/2101.00317), International Conference on Pattern Recognition (**ICPR**) , 2020 (oral, 7%).
+Recognition in Compressed Video](https://arxiv.org/abs/2101.00317), International Conference on Pattern Recognition (**ICPR**) , 2020 (oral, 4.4%).
 <sub> [[pdf]](https://arxiv.org/pdf/2101.00317.pdf) </sub>
 
 [6] Adam Poliak, Max Fleming, Cash Costello, Kenton W Murray, Mahsa Yarmohammadi, Shivani Pandya, Darius Irani, Milind Agarwal, Udit Sharma, Shuo Sun, Nicola Ivanov, Lingxi Shang, Kaushik Srinivasan, Seolhwa Lee, **Xu Han**, Smisha Agarwal, João Sedoc. [Collecting Verified COVID-19 Question Answer Pairs](https://openreview.net/forum?id=0X9O6VcYe_),In NLP-COVID Empirical Methods in Natural Language Processing (**EMNLP**)}, 2020.
